@@ -36,3 +36,8 @@ Para criar uma versão de tudo que foi modificado até aquele momento utilizamos
 ```bash
 git commit -m "Porque estou salvando estas alterações"
 ```
+
+Git push envia os commits do pc para o Github
+```bash
+git push
+```
