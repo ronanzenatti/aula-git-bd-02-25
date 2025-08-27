@@ -16,6 +16,7 @@ Só utilizamos este comando 1 vez.
 ```bash
 git init
 ```
+
 Para ver a situação do repositório utilizamos o comando status.
 Ele pode ser executado a qualquer momento para saber a situação da pasta.
 Se estiver vermelho precisa adicionar os arquivo, se estiver verde estão prontos 
